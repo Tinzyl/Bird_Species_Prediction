@@ -25,6 +25,7 @@ The graph which shows how the accuracy of the training and validation data chang
 ![Unknown](https://user-images.githubusercontent.com/18570056/147376022-231689c9-989d-419b-a5b1-9854db0f8252.png)
 
 The graph which shows how the loss of the training and validation data changed with the number of epochs is also shown below:
+
 ![Unknown-2](https://user-images.githubusercontent.com/18570056/147376036-c3a639bf-2375-423d-b872-44b930b21bd2.png)
 
 When tested on the Test dataset, the accuracy was: **77.12%**.
