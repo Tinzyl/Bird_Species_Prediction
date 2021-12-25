@@ -21,10 +21,11 @@
 
 ## Results
 I applied early stopping, and the model stopped improving it's accuracy after 30 epochs, hence that is when it stopped training. 
-The graph which shows how the accuracy of the training and validation data changed with the number of epochs is shown below:
+The graph which shows how the accuracy of the training and validation data changed with the number of epochs is shown below. Clicking on it will show the full graph:
+
 ![Unknown](https://user-images.githubusercontent.com/18570056/147376022-231689c9-989d-419b-a5b1-9854db0f8252.png)
 
-The graph which shows how the loss of the training and validation data changed with the number of epochs is also shown below:
+The graph which shows how the loss of the training and validation data changed with the number of epochs is also shown below. Clicking on it will show the full graph:
 
 ![Unknown-2](https://user-images.githubusercontent.com/18570056/147376036-c3a639bf-2375-423d-b872-44b930b21bd2.png)
 
